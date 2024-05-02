@@ -44,7 +44,7 @@
         </dependency>
         <dependency>
             <groupId>dev.langchain4j</groupId>
-            <artifactId>langchain4j-open-ai-spring-boot-starter</artifactId>
+            <artifactId>langchain4j-hugging-face</artifactId>
             <version>0.30.0</version>
         </dependency>
         <dependency>

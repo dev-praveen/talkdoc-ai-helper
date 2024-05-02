@@ -1,7 +1,8 @@
 spring:
   application:
     name: talkdoc-ai-helper
-langchain4j:
-  open-ai:
-    chat-model:
-      api-key: ${OPENAI_API_KEY}
+ai-model:
+  api-key: ${API_KEY}
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
